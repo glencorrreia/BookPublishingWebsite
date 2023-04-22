@@ -2,7 +2,7 @@
 
 This is a Content Management System (CMS) for a Book Publishing website, which allows users to create and manage their books, authors, genres, reviews, and other related content. This README file provides an overview of the CMS system, its features, installation instructions, and usage.
 
-Features
+#Features
 The CMS system includes the following features:
 
 User authentication and authorization
@@ -27,7 +27,7 @@ Create authors, genres, and books as needed. You can also edit or delete existin
 View, add, edit, or delete reviews for each book.
 Search for books, authors, and genres using the search bar.
 Sort and paginate through the list of books, authors, and reviews using the table headers and pagination controls.
-Dependencies
-The CMS system uses the following major dependencies:
+
+
 
 
